@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#92f4d2</color>
+    <color name="primary_dark">#3c89c6</color>
+    <color name="primary_light">#23b8f2</color>
+    <color name="accent">#00224c</color>
+    <color name="accent1">#207668</color>
+    <color name="primary_text">#414141</color>
+    <color name="secondary_text">#a2a2a2</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#c2c2c2</color>
+    <color name="flat_pressed">#66999999</color>
+    <color name="flat_disabled_text">#40000000</color>
+    <color name="flat_normal_text">#000000</color>
+    <color name="table_header_text">#CCFFFFFF</color>
+    <color name="table_data_row_even">#11C5CAE9</color>
+    <color name="table_data_row_odd">#33C5CAE9</color>
+    <color name="edt_pressed">#99CBFF</color>
+    <color name="edt_focused">#CEF7F6</color>
+    <color name="spinner_back">#cbd3d4</color>
+    <color name="white">#effafc</color>
+    <color name="edt_default">#000000</color>
+    <color name="background">#27218e</color>
+    <color name="black">#000000</color>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">
+Привет, мир!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="txt_total_meory">Общий объем памяти</string>
+    <string name="txt_used_memory">Используемая память</string>
+    <string name="free_memory">Свободная память</string>
+    <string name="txt_processes_name">Имя процесса</string>
+    <string name="txt_process_to_clean">Процесс для очистки</string>
+    <string name="txt_ram_condition">RAM Условие</string>
+    <string name="notification_title">Power RAM Booster</string>
+    <string name="notification_subject">Чистые процессы запуска делают ваше устройство быстрее</string>
+    <string name="boost">Буст</string>
+</resources>

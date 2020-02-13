@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">POWER RAM BOOSTER</string>
+    <string name="total_memory" translatable="false">2000 MB</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_total_meory">Total Memory</string>
+    <string name="txt_used_memory">Used Memory</string>
+    <string name="free_memory">Free Memory</string>
+    <string name="txt_processes_name">Process Name</string>
+    <string name="txt_process_to_clean">Process to Clean</string>
+    <string name="txt_ram_condition">RAM Condition</string>
+    <string name="notification_title">Power RAM Booster</string>
+    <string name="notification_subject">Clean Running Processes make faster your device</string>
+    <string name="boost">Boost</string>
+</resources>
